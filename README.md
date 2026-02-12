@@ -7,7 +7,7 @@ Dự án này là một server backend được xây dựng trên nền tảng *
 ## Clone repository
 1.  Clone repository về máy tính của bạn:
     ```bash
-    git clone https://github.com/HNMPhuoc/tekjoy-chatbot.git
+    git clone https://github.com/HNMPhuoc/ai-chatbot.git
     ```
 ---
 
