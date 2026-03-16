@@ -51,7 +51,7 @@ Sử dụng lệnh uvicorn 1:
     OPENAI_API_KEY="your_open_api_key"
     PADDLE_OCR_API_URL = http://thien-ocr:8080/ocr-fullV2
     
-    PG_HOST=db
+    PG_HOST=localhost
     PG_PORT=5432
     PG_DATABASE=Tekjoy
     PG_USER=admin
