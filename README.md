@@ -47,15 +47,15 @@ Sử dụng lệnh uvicorn 1:
     # 2. Thay thế các giá trị bên dưới bằng thông tin thực tế của bạn.
     # ==============================================================================
     
-    DATABASE_URL="postgresql+asyncpg://postgres:123456@localhost:5432/TekjoyV4"
+    DATABASE_URL="postgresql+asyncpg://postgres:******6@localhost:*****/Tekjoy"
     OPENAI_API_KEY="your_open_api_key"
     PADDLE_OCR_API_URL = http://thien-ocr:8080/ocr-fullV2
     
     PG_HOST=localhost
-    PG_PORT=5432
+    PG_PORT=*****
     PG_DATABASE=Tekjoy
-    PG_USER=admin
-    PG_PASSWORD=admin123
+    PG_USER=*****
+    PG_PASSWORD=*****
     
     
     SECRET_KEY=your_secret_key
